@@ -4,3 +4,5 @@
 - Navigation to personal projects / documents at top (below main header). 
 - Includes landing page, about, contact, and ability to view/download resume. 
 - Deployed on AWS EC2.
+
+Also on [AndreiK.net](http://andreik.net/)
